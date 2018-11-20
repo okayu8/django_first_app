@@ -1,4 +1,4 @@
 # django_first_app
 
 run
-'python manage.py runserver 8888'
+`python manage.py runserver 8888`
